@@ -1,0 +1,45 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]64/
+[Aa][Rr][Mm]64/Debug/
+[Aa][Rr][Mm]64/Release/
+
+# Visual Studio
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.ide
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# DotNet
+bin/
+obj/
+
+# Logs
+*.log
+
+# Backup files
+*~ 
+*.bak
+*.swp
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Visual Studio Code extensions
+.vscode/extensions.json
+.vscode/extensions/
+
+# OS generated files
+.DS_Store
+Thumbs.db
